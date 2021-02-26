@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "marcos@teste.com",
+      "image": "",
+      "name": "marcos",
+      "roles": ["employee", "manager"],
+      "token": "",
+      "username": "marcos"
+    }
+  ]
+}
